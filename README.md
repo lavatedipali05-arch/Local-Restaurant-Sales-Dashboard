@@ -22,7 +22,7 @@ This project is a Power BI dashboard that analyzes restaurant sales data and pro
 - Data Analytics
 
 ## 📷 Dashboard Preview
-!([Dashboard]screenshot.png)
+!([Dashboard]Dashboard.png)
 
 ## 🔗 Project Link
 https://github.com/lavatedipali05-arch/Local-Restaurant-Sales-Dashboard
